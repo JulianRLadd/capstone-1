@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "name": "Bow Saw",
+    "serialNum": 1001,
+    "price": 10.98,
+    "manufacturer": "TopMost",
+    "category": "Tools",
+    "quantity": 8
+  },
+  {
+    "id": 1,
+    "name": "Grass Feed",
+    "serialNum": 1002,
+    "price": 15.98,
+    "manufacturer": "Ground Work",
+    "category": "Other",
+    "quantity": 5
+  },
+  {
+    "id": 2,
+    "name": "Gloves",
+    "serialNum": 1003,
+    "price": 7.56,
+    "manufacturer": "Truper",
+    "category": "Other",
+    "quantity": 4
+  },
+  {
+    "id": 3,
+    "name": "Hose",
+    "serialNum": 1004,
+    "price": 21.95,
+    "manufacturer": "Hickok",
+    "category": "Tools",
+    "quantity": 3
+  },
+  {
+    "id": 4,
+    "name": "Loppers",
+    "serialNum": 1005,
+    "price": 16.45,
+    "manufacturer": "Hickok",
+    "category": "Tools",
+    "quantity": 7
+  },
+  {
+    "id": 5,
+    "name": "Rake",
+    "serialNum": 1006,
+    "price": 23.45,
+    "manufacturer": "TopMost",
+    "category": "Gardenware",
+    "quantity": 9
+  },
+  {
+    "id": 6,
+    "name": "Shears",
+    "serialNum": 1007,
+    "price": 12.99,
+    "manufacturer": "Ground Work",
+    "category": "Tools",
+    "quantity": 10
+  },
+  {
+    "id": 7,
+    "name": "Shovel",
+    "serialNum": 1008,
+    "price": 32.89,
+    "manufacturer": "A.M. Leonard",
+    "category": "Gardenware",
+    "quantity": 4
+  },
+  {
+    "id": 8,
+    "name": "Trovel",
+    "serialNum": 1009,
+    "price": 12.39,
+    "manufacturer": "A.M. Leonard",
+    "category": "Tools",
+    "quantity": 3
+  },
+  {
+    "id": 9,
+    "name": "Wheelbarrow",
+    "serialNum": 1010,
+    "price": 47.86,
+    "manufacturer": "Truper",
+    "category": "Gardenware",
+    "quantity": 2
+  }
+]
